@@ -1,0 +1,23 @@
+.display {
+  font-size: 300px;
+  font-family: Helvetica;
+
+}
+
+input { width: 400px;height: 200 }
+
+.submit {
+  background-color: #4DC060;
+  padding: 8px 20px;
+  font-size: 280px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  border: 1px solid #4DC060;
+  border-radius: 24px;
+  color: #fff;
+  display: block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 440px;
+  font-family: Helvetica;
+}
